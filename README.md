@@ -11,7 +11,7 @@ Contact for permissions: oblivionsoulstudios@gmail.com/@opsstudios94
 ## Assets not included
 The playable build uses licensed third-party assets that cannot be
 redistributed. They are not in this repo, so the project will show
-missing sprites/sounds when opened:
+missing sprites/sounds when opened. Showing the license terms for the assets:
 - GameArt2D: https://www.gameart2d.com/license.html
 - Ovani Sound: https://ovanisound.com/policies/terms-of-service
 - Craftpix: https://craftpix.net/file-licenses/
